@@ -1,8 +1,5 @@
 {
-    "styles": [
-        "wp-block-paragraph",
-        "wp-block-quote"
-    ],
+    "styles": [],
     "scripts": [],
     "media": []
 }
