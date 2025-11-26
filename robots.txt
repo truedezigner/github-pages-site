@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://pipedream.local/sitemap.xml
