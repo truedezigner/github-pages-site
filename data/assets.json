@@ -24,8 +24,8 @@
         "/assets/css/avia-snippet-widget.min_-b4a01218.css",
         "/assets/css/enfold-c5d39b48.css",
         "/assets/css/custom-71bd886f.css",
-        "/assets/css/post-20-c94bf356.css",
-        "/assets/css/post-16-0c2c35dd.css"
+        "/assets/css/post-16-50d085a1.css",
+        "/assets/css/post-20-c94bf356.css"
     ],
     "scripts": [
         "/assets/js/jquery.min_-a761aeef.js",
@@ -98,10 +98,10 @@
         "/wp-content/uploads/dynamic_avia/enfold.css?ver=69276f6ce4d79": "/assets/css/enfold-c5d39b48.css",
         "http://pipedream.local/wp-content/themes/enfold/css/custom.css?ver=7.1.2": "/assets/css/custom-71bd886f.css",
         "/wp-content/themes/enfold/css/custom.css?ver=7.1.2": "/assets/css/custom-71bd886f.css",
+        "http://pipedream.local/wp-content/uploads/dynamic_avia/avia_posts_css/post-16.css?ver=ver-1764216222": "/assets/css/post-16-50d085a1.css",
+        "/wp-content/uploads/dynamic_avia/avia_posts_css/post-16.css?ver=ver-1764216222": "/assets/css/post-16-50d085a1.css",
         "http://pipedream.local/wp-content/uploads/dynamic_avia/avia_posts_css/post-20.css?ver=ver-1764195208": "/assets/css/post-20-c94bf356.css",
         "/wp-content/uploads/dynamic_avia/avia_posts_css/post-20.css?ver=ver-1764195208": "/assets/css/post-20-c94bf356.css",
-        "http://pipedream.local/wp-content/uploads/dynamic_avia/avia_posts_css/post-16.css?ver=ver-1764195144": "/assets/css/post-16-0c2c35dd.css",
-        "/wp-content/uploads/dynamic_avia/avia_posts_css/post-16.css?ver=ver-1764195144": "/assets/css/post-16-0c2c35dd.css",
         "http://pipedream.local/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": "/assets/js/jquery.min_-a761aeef.js",
         "/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": "/assets/js/jquery.min_-a761aeef.js",
         "http://pipedream.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": "/assets/js/jquery-migrate.min_-5138efa5.js",
@@ -144,6 +144,8 @@
         "/wp-content/themes/enfold/js/avia-snippet-widget.min.js?ver=7.1.2": "/assets/js/avia-snippet-widget.min_-5b155dc4.js",
         "http://pipedream.local/wp-content/themes/enfold/images/layout/logo.png": "/assets/media/logo-245eb527.png",
         "/wp-content/themes/enfold/images/layout/logo.png": "/assets/media/logo-245eb527.png",
+        "http://pipedream.local/wp-content/uploads/2025/11/Screenshot-From-2025-09-20-18-13-57-1500x913.png": "/assets/media/Screenshot-From-2025-09-20-18-13-57-1500x913-d8dc8226.png",
+        "/wp-content/uploads/2025/11/Screenshot-From-2025-09-20-18-13-57-1500x913.png": "/assets/media/Screenshot-From-2025-09-20-18-13-57-1500x913-d8dc8226.png",
         "http://pipedream.local/wp-content/uploads/2025/11/Screenshot-From-2025-11-26-13-00-10-1500x938.png": "/assets/media/Screenshot-From-2025-11-26-13-00-10-1500x938-c54cf5c9.png",
         "/wp-content/uploads/2025/11/Screenshot-From-2025-11-26-13-00-10-1500x938.png": "/assets/media/Screenshot-From-2025-11-26-13-00-10-1500x938-c54cf5c9.png"
     }
